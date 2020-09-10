@@ -23,3 +23,4 @@ elif [ "$YN" = "Y" ]; then
 else
 	echo "You mush type Y or N"
 	exit 1
+fi
